@@ -8,9 +8,9 @@ This program is useful to calculate Annuity Payments and Differentiated Payments
 
 Quick Navigation:
 - [Installation](README.md#Installation)
-- [Programme Details](README.md#Programme%20Details)
-- [Annuity Payment](README.md#Annuity%20Payment)
-- [Differentiated Payment](README.md#Differentiated%20Payment)
+- [Programme Details](README.md##programme-details)
+- [Annuity Payment](README.md#annuity-payment)
+- [Differentiated Payment](README.md#differentiated-payment)
 - [Credits](README.md#Credits)
 
 ### Installation
