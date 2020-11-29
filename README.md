@@ -34,7 +34,7 @@ This programme can be used in two formats:
    
    <p><u>Steps</u><p>
 
-   - Download **cli.zip** from Releases and unzip it on your PC.
+   - Download **cli.zip** from [Releases](https://github.com/DSAghicha/Credit-Calculator/releases/latest) and unzip it on your PC.
    - This zip file will have one directory which will have two files ```main.py``` & ```cli.py```.
    - Open Terminal in this directory and run ```python cli.py```.
    
