@@ -32,15 +32,27 @@ This programme can be used in two formats:
 
 1. Command Line Interface
    
-   <p><u>Steps</u><p>
+   **Steps**
 
    - Download **cli.zip** from [Releases](https://github.com/DSAghicha/Credit-Calculator/releases/latest) and unzip it on your PC.
-   - This zip file will have one directory which will have two files ```main.py``` & ```cli.py```.
+    
+     This zip file will have one directory which will have two files ```main.py``` & ```cli.py```.
    - Open Terminal in this directory and run ```python cli.py```.
    
      Alternatively, you can open it in your favourite code editor and run it from there as well.
         
 2. Command Line Arguments
+   
+   **Steps**
+   
+   - Download **cl_args.zip** from [Releases](https://github.com/DSAghicha/Credit-Calculator/releases/latest) and unzip it on your PC.
+   
+     This zip file will have one directory which will have two files ```main.py``` & ```arg_based.py```.
+   - Open Terminal in this directory and run ```python arg_based.py --help```.
+   
+      You will see the list of all optional arguments which you need to follow.The script will detect the one that is not provided and calculate it's result.
+      
+      ```python arg_based.py --all optional arguments```
 
 ### Annuity Payment
 
